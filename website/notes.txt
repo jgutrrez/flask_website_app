@@ -1,3 +1,5 @@
 pip install flask
 pip install flask-login
 pip install flask-sqlalchemy
+
+Stop at 58 mins = GET and POST requests
